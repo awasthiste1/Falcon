@@ -1,0 +1,2 @@
+# Python Calculator - No external dependencies required
+# This is a pure Python project
